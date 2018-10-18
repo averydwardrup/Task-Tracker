@@ -15,7 +15,7 @@
  
  <ul>
   <li>Ability to edit tasks inline on the front end when logged in as certain user</li>
-  <li>Ability to submit time from the timers to the task</li>
+  <li>Ability to submit time from the timer to the task</li>
   <li>Task moderation - only show if apprived as official task by admin</li>
   <li>Filter by date range</li>
 </ul>
